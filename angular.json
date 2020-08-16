@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Consuming-REST-API"
+    }
+  },
+  "defaultProject": "Consuming-REST-API",
+  "cli": {
+    "analytics": false
+  }
 }
